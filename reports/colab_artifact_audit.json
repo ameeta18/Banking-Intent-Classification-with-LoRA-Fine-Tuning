@@ -1,0 +1,24 @@
+{
+  "frozen": {
+    "archive": "models\\frozen_artifacts.zip",
+    "sha256": "379b4ca3ae63ba2d47b20c3aed0a8ea7f9d4ce4b1e6c9ba2e1ff17f41560a4e8",
+    "accuracy": 0.6418209104552276,
+    "macro_f1": 0.621007406318776,
+    "predictions_match_local_validation": true,
+    "metrics_recomputed": true,
+    "input_hashes_match": true,
+    "archive_integrity": "passed",
+    "model_execution_locally": false
+  },
+  "lora": {
+    "archive": "models\\lora_artifacts.zip",
+    "sha256": "494d2fb19f17b79c41b941f40dd07b8ea457a778059ba7328dad0053a6e1468e",
+    "accuracy": 0.8939469734867433,
+    "macro_f1": 0.8950320583792466,
+    "predictions_match_local_validation": true,
+    "metrics_recomputed": true,
+    "input_hashes_match": true,
+    "archive_integrity": "passed",
+    "model_execution_locally": false
+  }
+}

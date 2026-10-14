@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+models/
+data/colab/
+reports/banking77_baseline/validation_predictions.csv
+reports/banking77_tuned_baseline/validation_predictions.csv
